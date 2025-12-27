@@ -1,0 +1,5 @@
+{
+  "name": "GlobalStream IPTV Navigator",
+  "description": "A high-performance interface for browsing thousands of free-to-air IPTV channels from around the world. Features search, categorization, favorites, and a built-in HLS player.",
+  "requestFramePermissions": []
+}
